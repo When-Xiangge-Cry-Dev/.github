@@ -1,7 +1,5 @@
 ## 祥阁鸣泣之时
 
-![祥阁鸣泣之时](https://club.khboys.cn/res/image/nobgonlylogo1.png)
-
 欢迎加入开发制作组，qq群号: 321879942
 平时还是微信比较活跃~~其实之前想拉个tg群~~
 
