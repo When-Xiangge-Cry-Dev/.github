@@ -12,4 +12,4 @@
 
 ----------
 
-<center> <iframe id="afdian_leaflet_{1}" src="https://afdian.net/leaflet?slug=XXXVillager" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script> </center>
+![https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg)
