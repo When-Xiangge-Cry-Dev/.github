@@ -12,4 +12,4 @@
 
 ----------
 
-![https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg)
+![https://afdian.net/XXXVillager](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg)
