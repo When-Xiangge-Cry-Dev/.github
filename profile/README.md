@@ -11,5 +11,3 @@
 *实际上，本项目在开发上有极大困难，团队生产力设备无法常在身边，仍在划水制作 （大悲）*
 
 ----------
-
-![https://afdian.net/XXXVillager](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg)
